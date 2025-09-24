@@ -1,10 +1,10 @@
 # Final_Project
-# 🎓 Educational Course Selling Website
+# Educational Course Selling Website
 
 This is a **frontend React project** for an online educational course selling platform.  
 The main idea is to allow users to **browse courses**, **view details**, **register/login with JWT-based authentication**, and **access protected pages** like Dashboard and Profile.
 
-## 🚀 Features
+##  Features
 
 - **Routing & Protected Routes** (using React Router v6)
 - **Authentication with JWT** (simulated with fakeAuth.js)
@@ -25,7 +25,7 @@ The main idea is to allow users to **browse courses**, **view details**, **regis
   - Lazy loading for routes
   - Memoized components
     
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **React 18**
 - **React Router DOM**
@@ -33,9 +33,7 @@ The main idea is to allow users to **browse courses**, **view details**, **regis
 - **JWT Decode** (token parsing)
 - **Context API**
 
----
-
-## 📂 Project Structure
+##  Project Structure
 src/
 ┣ api/
 ┃ ┗ fakeAuth.js
